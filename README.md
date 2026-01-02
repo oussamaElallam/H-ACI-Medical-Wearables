@@ -5,7 +5,7 @@ Implementation of **Hierarchical Adaptive Conformal Inference (H-ACI)** for reli
 ## Paper
 
 "Hierarchical Adaptive Conformal Inference for Reliable Uncertainty Quantification in Edge-Deployable Medical Wearables"  
-*Submitted to Device (Cell Press)*
+*Submitted*
 
 ## Key Features
 
